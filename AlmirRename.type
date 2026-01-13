@@ -12,15 +12,5 @@
       <property name="type" class="kapow.robot.plugin.common.domain.HTMLCodeAttributeType"/>
       <property name="recordFieldType" class="String">Text</property>
     </object>
-    <object class="kapow.robot.common.domain.Attribute" serializationversion="1">
-      <property name="name" class="String">SomeLink</property>
-      <property name="type" class="kapow.robot.plugin.common.domain.HTMLCodeAttributeType"/>
-      <property name="recordFieldType" class="String">Text</property>
-    </object>
-    <object class="kapow.robot.common.domain.Attribute" serializationversion="1">
-      <property name="name" class="String">Almir</property>
-      <property name="type" class="kapow.robot.plugin.common.domain.HTMLCodeAttributeType"/>
-      <property name="recordFieldType" class="String">Text</property>
-    </object>
   </property>
 </object>
