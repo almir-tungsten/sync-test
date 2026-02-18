@@ -16,5 +16,6 @@
       <property name="name" class="String">SomeLink</property>
       <property name="type" class="kapow.robot.plugin.common.domain.HTMLCodeAttributeType"/>
       <property name="recordFieldType" class="String">Text</property>
+    </object>
   </property>
 </object>
